@@ -1,13 +1,28 @@
-html{background-color: black;}
-.poster{ font-family: "Libre Baskerville", serif;
-     font-style: normal;
-     text-transform: uppercase;
-    color: white;
-    text-align: center;
-    width:50%;
-    margin-left:25%;
+html{
+    background-color:#fffdf5
 }
-.motivationmeme{border: 
-    solid white 5px;
+.store{ 
+    font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+    color: black;
+    text-align:
+}
+
+.title-text{
+  font-family: "Inter", sans-serif;
+font-style: normal;
+  font-weight: 900;
+
+}
+
+h1{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+}
+.walletpic{border: 
+    solid grey 5px;
 width: 100%;
 }
